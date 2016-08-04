@@ -1,10 +1,10 @@
 {
   "appname": "testapp3",
-  "ocscope": "ProductAdmin ProductReader CategoryAdmin CategoryReader DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "ocscope": "BuyerReader ProductAdmin ProductReader CategoryAdmin CategoryReader DevCenterImpersonate FullAccess BuyerAdmin",
   "clientid": "C858B5F5-9DF6-4EF1-AD67-2EC6E10D8205",
   "buyerid": "testBuyer",
   "environment": "prod",
-  "anonymous": true,
+  "anonymous": false,
   "base": {
     "left":true,
     "right":false,
